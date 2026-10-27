@@ -82,4 +82,6 @@ Users can explore the dashboard using slicers and filters for:
 • Primary Tool: Microsoft Excel
 • Status: Completed
 
-![Real Estate Analytics Dashboard](Dash1.png)
+## Dashboard Preview
+
+![Loan Management Dashboard](DASH%201.png)
