@@ -74,6 +74,7 @@ Users can explore the dashboard using slicers and filters for:
 4. Use the slicers to filter data by application date and loan product.
 5. Explore the KPIs and charts to investigate performance trends.
 
+![Real Estate Analytics Dashboard](Dash2.png)
 🗂️ Project Information
 
 • Project Type: Data Analysis & Dashboard
