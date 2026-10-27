@@ -81,3 +81,5 @@ Users can explore the dashboard using slicers and filters for:
 • Domain: Banking / Loan Management
 • Primary Tool: Microsoft Excel
 • Status: Completed
+
+![Real Estate Analytics Dashboard](Dash1.png)
